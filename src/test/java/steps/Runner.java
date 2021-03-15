@@ -12,7 +12,9 @@ import org.junit.runner.RunWith;
         strict = true,
         plugin = {"pretty",
                 "html:target/cucumberReports/mobile/html",
-                "json:target/cucumberReports/mobile/json"
+                "json:target/cucumberReports/mobile/json",
+                "com.vimalselvam.cucumber.listener.ExtentCucumberFormatter:target/cucumber-reports/ExtentReport4.html"
+
         })
 public class Runner {
 }
