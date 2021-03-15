@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cenario: Consultar Ovo de Pascoa" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-03-15T20:53:00" hostname="DESKTOP-K8CNU04" time="3.407">
+  <properties/>
+  <testcase name="Dado que acesso a Wikipedia em Portugues" classname="Cenario: Consultar Ovo de Pascoa" time="0.0"/>
+  <testcase name="Quando pesquiso por &quot;Ovo de Páscoa&quot;" classname="Cenario: Consultar Ovo de Pascoa" time="0.0"/>
+  <testcase name="Entao Exibe a expressao &quot;Ovo de Páscoa&quot; no titulo da guia" classname="Cenario: Consultar Ovo de Pascoa" time="0.0"/>
+  <testcase name="classMethod" classname="Cenario: Consultar Ovo de Pascoa" time="8.888"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 37266
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1615841577.299][WARNING]: This version of ChromeDriver has not been tested with Chrome version 89.
+mar 15, 2021 5:52:57 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMAÇÕES: Detected dialect: W3C
+]]></system-err>
+</testsuite>
