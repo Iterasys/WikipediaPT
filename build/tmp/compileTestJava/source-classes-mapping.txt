@@ -2,9 +2,11 @@ steps/Hooks.java
  steps.Hooks
 steps/Base.java
  steps.Base
-steps/Runner.java
- steps.Runner
-simples/Artigo.java
- simples.Artigo
 steps/Post.java
  steps.Post
+simples/Artigo.java
+ simples.Artigo
+steps/RunnerBackup.java
+ steps.RunnerBackup
+steps/Runner.java
+ steps.Runner
