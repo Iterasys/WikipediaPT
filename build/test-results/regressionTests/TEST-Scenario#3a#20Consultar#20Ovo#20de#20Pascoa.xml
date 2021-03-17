@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Scenario: Consultar Ovo de Pascoa" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-03-16T00:35:54" hostname="DESKTOP-K8CNU04" time="3.228">
+<testsuite name="Scenario: Consultar Ovo de Pascoa" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-03-17T22:45:58" hostname="DESKTOP-K8CNU04" time="4.29">
   <properties/>
-  <testcase name="Given que acesso a Wikipedia em Portugues" classname="Scenario: Consultar Ovo de Pascoa" time="0.001"/>
-  <testcase name="When pesquiso por &quot;Ovo de Páscoa&quot;" classname="Scenario: Consultar Ovo de Pascoa" time="0.0"/>
+  <testcase name="Given que acesso a Wikipedia em Portugues" classname="Scenario: Consultar Ovo de Pascoa" time="0.0"/>
+  <testcase name="When pesquiso por &quot;Ovo de Páscoa&quot;" classname="Scenario: Consultar Ovo de Pascoa" time="0.001"/>
   <testcase name="Then Exibe a expressao &quot;Ovo de Páscoa&quot; no titulo da guia" classname="Scenario: Consultar Ovo de Pascoa" time="0.0"/>
-  <testcase name="classMethod" classname="Scenario: Consultar Ovo de Pascoa" time="9.572"/>
+  <testcase name="classMethod" classname="Scenario: Consultar Ovo de Pascoa" time="11.658"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 37051
+  <system-err><![CDATA[Starting ChromeDriver 88.0.4324.96 (68dba2d8a0b149a1d3afac56fa74648032bcf46b-refs/branch-heads/4324@{#1784}) on port 31044
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1615854951.265][WARNING]: This version of ChromeDriver has not been tested with Chrome version 89.
-Mar 15, 2021 9:35:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1616021154.403][WARNING]: This version of ChromeDriver has not been tested with Chrome version 89.
+Mar 17, 2021 7:45:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>
