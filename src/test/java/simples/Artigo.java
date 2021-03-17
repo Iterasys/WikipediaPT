@@ -31,7 +31,7 @@ public class Artigo {
     public void consultarArtigo(){
         //Abrir o site
         driver.get(url);
-
+// oi
         //Pesquisar por "Ovo de Pascoa"
         driver.findElement(By.id("searchInput")).sendKeys("Ovo de Páscoa");
         // driver.findElement(By.id("searchButton")).click();
